@@ -1,6 +1,6 @@
 # Mohid Bhatti
 
-**Aspiring Software Engineer.** I build full-stack web apps, dabble in machine learning, and automate the boring parts.
+**Software Engineer.** I build full-stack web apps, dabble in machine learning, and automate the boring parts.
 
 Most of what I ship is live somewhere — I care more about things that run than things that just compile.
 
