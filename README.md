@@ -1,6 +1,8 @@
-# Hi there! 👋 I'm Mohid Bhatti
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D85A30,100:1a1b27&height=200&section=header&text=Mohid%20Bhatti&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Machine%20Learning%20%C2%B7%20Ships%20things%20that%20run&descSize=16&descAlignY=62" width="100%" alt="Mohid Bhatti" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Machine+Learning+Engineer;I+ship+things+that+run)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Machine+Learning+Engineer;I+ship+things+that+run" alt="Typing SVG" /></a>
+</p>
 
 ---
 
@@ -76,7 +78,15 @@ I'm a software engineer who likes shipping things that actually run — full-sta
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohid59&theme=tokyonight&cachebust=20260707" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohid59&theme=tokyonight&utcOffset=5&cachebust=20260707" alt="Productive Time" />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohid59&bg_color=0d1117&color=D85A30&line=D85A30&point=ffffff&area=true&area_color=D85A30&hide_border=true&custom_title=Contribution%20Activity&cachebust=20260707" width="100%" alt="Contribution Activity Graph" />
 <!-- /stats-cachebust -->
+
+---
+
+## 🧊 3D CONTRIBUTIONS
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Calendar" />
 
 ---
 
