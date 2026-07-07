@@ -90,12 +90,12 @@ I'm a software engineer who likes shipping things that actually run — full-sta
 
 ---
 
-<!-- NOW-PLAYING: replace UID_PLACEHOLDER with your uid from spotify-github-profile login, then uncomment.
+<!-- NOW-PLAYING (novatorem): replace YOUR_VERCEL_URL with your deployed app, replace SPOTIFY_USER_ID, then uncomment.
 ## 🎧 NOW PLAYING
 
 <p align="center">
-  <a href="https://open.spotify.com/user/UID_PLACEHOLDER">
-    <img src="https://spotify-github-profile.kittinan.com/api/view?uid=UID_PLACEHOLDER&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=D85A30&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/SPOTIFY_USER_ID">
+    <img src="https://YOUR_VERCEL_URL.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
 
