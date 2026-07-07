@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mohid Bhatti
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Machine+Learning+Engineer;I+ship+things+that+run)](https://git.io/typing-svg)
 
 ---
 
@@ -73,7 +73,8 @@ I'm a software engineer who likes shipping things that actually run — full-sta
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohid59&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30&cachebust=20260707" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohid59&theme=tokyonight&cachebust=20260707" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohid59&theme=tokyonight&utcOffset=5&cachebust=20260707" alt="Productive Time" />
 </p>
 <!-- /stats-cachebust -->
 
