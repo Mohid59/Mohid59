@@ -1,0 +1,36 @@
+name: Refresh Stats Cache
+
+on:
+  # Daily, a little after the snake job
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Bump cachebust token in README
+        run: |
+          TODAY=$(date -u +%Y%m%d)
+          # Replace every cachebust=YYYYMMDD with today's date so GitHub's
+          # image proxy (Camo) sees a new URL and refetches the stat cards.
+          sed -i -E "s/cachebust=[0-9]{8}/cachebust=${TODAY}/g" README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No cachebust change today."
+          else
+            git add README.md
+            git commit -m "chore: refresh stats cache ($(date -u +%Y-%m-%d))"
+            git push
+          fi

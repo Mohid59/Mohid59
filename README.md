@@ -6,9 +6,10 @@
 
 ## 💻 About Me
 
-I'm an aspiring software engineer who likes shipping things that actually run — full-stack web apps, a bit of machine learning, and automation that does real work.
+I'm a software engineer who likes shipping things that actually run — full-stack web apps, machine learning, and automation that does real work.
 
-- 🔭 Currently building full-stack web apps and ML-powered tools
+- 🔭 Currently building ML services (Flask) and full-stack web apps
+- 🎓 Working through the **VortexTech AI/ML** program — hands-on notebooks weekly
 - ⚡ Automating real workflows — scraping, pipelines, n8n + Docker
 - 🧠 Into Machine Learning — match prediction, calibrated probabilities, xG models
 - 🚀 Most of my projects are deployed with live demos
@@ -42,6 +43,11 @@ I'm an aspiring software engineer who likes shipping things that actually run �
 | Campus event management portal for students and organizers. | AI-assisted clinic / healthcare helper. | My personal portfolio site. [live ↗](https://portfolio-mohid.vercel.app) |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
+| 🧪 **[ML Services Hub](https://github.com/Mohid59/ml-services-hub)** | 📓 **[VortexTech AI/ML](https://github.com/Mohid59/vortextech-aiml-week2)** | |
+|---|---|---|
+| Nine machine-learning services behind a single Flask UI. | Weekly AI/ML coursework — notebooks on data prep, models, and evaluation. | |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) | |
+
 > 👉 See pinned repos below for live demos and code!
 
 ---
@@ -56,18 +62,20 @@ I'm an aspiring software engineer who likes shipping things that actually run �
 
 ## 📊 GITHUB STATS
 
+<!-- stats-cachebust -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohid59&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohid59&theme=tokyonight&cachebust=20260707" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohid59&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohid59&theme=tokyonight" alt="Most Used Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohid59&theme=tokyonight&cachebust=20260707" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohid59&theme=tokyonight&cachebust=20260707" alt="Most Used Language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohid59&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mohid59&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30&cachebust=20260707" alt="GitHub Streak" />
 </p>
+<!-- /stats-cachebust -->
 
 ---
 
@@ -98,7 +106,9 @@ I'm an aspiring software engineer who likes shipping things that actually run �
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Databases & Backend Services**
 
