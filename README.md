@@ -90,11 +90,11 @@ I'm a software engineer who likes shipping things that actually run — full-sta
 
 ---
 
-## 🎧 NOW PLAYING
+## 🎧 SPOTIFY
 
 <p align="center">
   <a href="https://open.spotify.com/user/31gtrz2uphfri4gxvpgw4dzbloiy">
-    <img src="https://novatorem-mohid59s-projects.vercel.app/api/orchestrator?background_color=0d1117&border_color=D85A30" alt="Spotify Now Playing" />
+    <img src="https://novatorem-mohid59s-projects.vercel.app/api/orchestrator?background_color=0d1117&border_color=D85A30&show_status=true" alt="Spotify — now playing / recently played" />
   </a>
 </p>
 
