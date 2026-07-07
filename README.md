@@ -90,17 +90,15 @@ I'm a software engineer who likes shipping things that actually run — full-sta
 
 ---
 
-<!-- NOW-PLAYING (novatorem): replace YOUR_VERCEL_URL with your deployed app, replace SPOTIFY_USER_ID, then uncomment.
 ## 🎧 NOW PLAYING
 
 <p align="center">
-  <a href="https://open.spotify.com/user/SPOTIFY_USER_ID">
-    <img src="https://YOUR_VERCEL_URL.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/31gtrz2uphfri4gxvpgw4dzbloiy">
+    <img src="https://novatorem-mohid59s-projects.vercel.app/api/orchestrator?background_color=0d1117&border_color=D85A30" alt="Spotify Now Playing" />
   </a>
 </p>
 
 ---
--->
 
 ## 🛠 TECH STACK
 
