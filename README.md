@@ -84,12 +84,6 @@ I'm a software engineer who likes shipping things that actually run — full-sta
 
 ---
 
-## 🧊 3D CONTRIBUTIONS
-
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Calendar" />
-
----
-
 ## 🐍 CONTRIBUTION SNAKE
 
 ![github contribution grid snake animation](https://github.com/Mohid59/Mohid59/raw/output/github-contribution-grid-snake-dark.svg)
